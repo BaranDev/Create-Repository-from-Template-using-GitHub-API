@@ -36,5 +36,10 @@ To get started, follow these steps:
 4. Run the Flask application using `python main.py`.
 5. Access the application in your browser and start exploring template repositories.
 
+![GitHub language count](https://img.shields.io/github/languages/count/barandev/Create-Repository-from-Template)
+![GitHub repo size](https://img.shields.io/github/repo-size/barandev/Create-Repository-from-Template)
+[![License](https://img.shields.io/github/license/barandev/Tetris-Game-Template)](https://github.com/barandev/Tetris-Game-Template/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/barandev/Create-Repository-from-Template)](https://github.com/barandev/Create-Repository-from-Template/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/barandev/Create-Repository-from-Template)](https://github.com/barandev/Create-Repository-from-Template/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/barandev/Create-Repository-from-Template)](https://github.com/barandev/Create-Repository-from-Template/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/barandev/Create-Repository-from-Template)](https://github.com/barandev/Create-Repository-from-Template/network)
